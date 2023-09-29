@@ -5,14 +5,14 @@ body{
     font-size: x-large;
 }
 
-#naglowek{
+#header{
     width: 50%;
     margin: auto;
     padding-top: 1%;
     text-align: center;
 }
 
-#stopka{
+#footer{
     width: 30%;
     margin: auto;
     padding-top: 1%;
