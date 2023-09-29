@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+    font-family: 'VT323';
+    color: white;
+    font-size: x-large;
+}
+
+#naglowek{
+    width: 50%;
+    margin: auto;
+    padding-top: 1%;
+    text-align: center;
+}
+
+#stopka{
+    width: 30%;
+    margin: auto;
+    padding-top: 1%;
+    text-align: left;
+}
+
+.os_chs{
+    width: 80%;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    border: 2px solid white;
+}
+
+table{
+    width: 100%;
+}
+tr{
+    width: 100%;
+}
+
+
+tr:hover{
+    background-color: gray;
+    color:black;
+}
