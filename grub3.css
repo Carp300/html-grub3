@@ -28,13 +28,20 @@ body{
     border: 2px solid white;
 }
 
+a.os{
+    display: block;
+    width: 100%;
+    height: 100%;
+    text-decoration: none;
+    color: inherit;
+}
+
 table{
     width: 100%;
 }
 tr{
     width: 100%;
 }
-
 
 tr:hover{
     background-color: gray;
